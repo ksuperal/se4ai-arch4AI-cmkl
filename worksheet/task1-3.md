@@ -1,8 +1,8 @@
 # Week 6 worksheet: serving patterns
 
-**Name:**
-
-**Student ID:**
+**Name:** Kanokjan Singhsuwan
+ 
+**Student ID:** 01223046
 
 This is **individual work**: each student completes and submits their own copy, in their own fork.
 
@@ -81,4 +81,4 @@ Copy result rows from `results/runs.csv` (or the load test's output) into the ta
 
 **Q4.** Name one thing you learned from these measurements that the lecture did not cover.
 
-> The cache cut large calls from 53% to 38% with no accuracy loss. The lecture didn't show how much repeated reviews matter.
+> The cache cut large calls from 53% to 38% with no accuracy loss. 
